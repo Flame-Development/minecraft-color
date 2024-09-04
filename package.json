@@ -1,0 +1,26 @@
+{
+    "name": "minecraft-color",
+    "version": "1.0.0",
+    "description": "A utility module for translating Minecraft color codes to HTML and console styles, and for stripping Minecraft color codes from text. Supports both HTML and ANSI escape codes for console output.",
+    "main": "index.js",
+    "directories": {
+      "src": "src"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Flame-Development/minecraft-color.git"
+    },
+    "keywords": [
+      "minecraft",
+      "html",
+      "color",
+      "color-codes",
+      "nodejs"
+    ],
+    "author": "aria.js",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Flame-Development/minecraft-color/issues"
+    },
+    "homepage": "https://github.com/Flame-Development/minecraft-color"
+  }
